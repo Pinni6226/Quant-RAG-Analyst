@@ -51,19 +51,20 @@ langchain-chroma
 
 openai
 
+chromadb
+
 
 最后，在你的pycharm中打开它们，在终端输入如下指令：
 
-cd （三个文件所在文件夹）
+cd （三个文件所在文件夹，例如“exercises”）
 
 streamlit run app.py
+
+
 
 Finally, open them in your PyCharm by entering the following commands in the terminal:
 
-cd (the folder containing the three files)
+cd (the folder containing the three files, for example 'exercises')
 
 streamlit run app.py
 
-
-
-chromadb
